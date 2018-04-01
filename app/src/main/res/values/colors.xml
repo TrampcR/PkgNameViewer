@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="text_white">#FFFFFF</color>
+    <color name="line_gray">#E0E0E0</color>
+    <color name="red">#F8403D</color>
+    <color name="white">#F5F6FA</color>
+
+    <color name="game_main_tab_text_color_def">#8E9098</color>
+    <color name="game_main_tab_text_color_pre">#1C97FF</color>
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical"
+              android:paddingLeft="15dp"
+              android:paddingRight="15dp">
+
+    <TextView
+        android:id="@+id/dialog_text_app_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:textSize="20sp"
+        tools:text="@string/list_app_name"/>
+
+    <Button
+        android:id="@+id/btn_dialog_app_detail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/text_white"
+        android:textSize="18sp"
+        tools:text="@string/dialog_app_detail"/>
+
+    <Button
+        android:id="@+id/btn_dialog_send_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/text_white"
+        android:textSize="18sp"
+        tools:text="@string/dialog_send_message"/>
+
+    <Button
+        android:id="@+id/btn_dialog_cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="5dp"
+        android:textColor="@color/text_white"
+        android:textSize="18sp"
+        tools:text="@string/dialog_cancel"/>
+
+</LinearLayout>

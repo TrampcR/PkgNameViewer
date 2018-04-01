@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="tab_item_icon_array_viewer">
+        <item>@drawable/viewer_main_tab_all</item>
+        <item>@drawable/viewer_main_tab_user</item>
+        <item>@drawable/viewer_main_tab_system</item>
+    </integer-array>
+
+    <string-array name="tab_item_text_array_viewer">
+        <item>@string/main_tab_all</item>
+        <item>@string/main_tab_user</item>
+        <item>@string/main_tab_system</item>
+    </string-array>
+</resources>

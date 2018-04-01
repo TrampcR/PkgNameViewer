@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">包名查看器</string>
+
+    <!-- list item -->
+    <string name="list_type">type</string>
+    <string name="list_version">version</string>
+    <string name="list_app_name">app name</string>
+    <string name="list_pkg_name">pkg name</string>
+
+    <!-- dialog text -->
+    <string name="dialog_cancel">取消</string>
+    <string name="dialog_app_detail">应用详情</string>
+    <string name="dialog_send_message">信息发送到</string>
+    <string name="dialog_send_message_title">将应用信息发送至</string>
+
+    <!-- send message prefix -->
+    <string name="send_message_type">应用类型：</string>
+    <string name="send_message_app_name">应用名称：</string>
+    <string name="send_message_pkg_name">应用包名：</string>
+
+    <!-- app type -->
+    <string name="user_app_type">用户应用</string>
+    <string name="system_app_type">系统应用</string>
+
+    <!-- main tab -->
+    <string name="main_tab_all">All</string>
+    <string name="main_tab_user">User</string>
+    <string name="main_tab_system">System</string>
+</resources>
